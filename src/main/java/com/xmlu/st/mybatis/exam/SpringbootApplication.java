@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 @MapperScan("com.xmlu.st.mybatis.exam.mapper")
-public class SpringbootMybaitsApplication {
+public class SpringbootApplication {
 	public static void main(String[] args) {
-		SpringApplication.run(SpringbootMybaitsApplication.class, args);
+		SpringApplication.run(SpringbootApplication.class, args);
 	}
 }
