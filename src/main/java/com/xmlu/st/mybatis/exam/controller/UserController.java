@@ -1,4 +1,4 @@
-package com.xmlu.st.mybatis.exam.web;
+package com.xmlu.st.mybatis.exam.controller;
 
 import java.util.List;
 
